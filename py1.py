@@ -1,0 +1,1 @@
+print("starge 1")
